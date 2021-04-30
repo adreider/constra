@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by TI - Autocom :wave: [Visite nosso site!](http://tiautocom.com/)
+Feito com ♥ by TI - Autocom :wave: [Visite nosso site!](https://distracted-colden-5385fe.netlify.app/)
