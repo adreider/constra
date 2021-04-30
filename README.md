@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img alt="dev.finances" src="https://maratona-discover-devfinance.netlify.app/public/assets/logo.svg" width="100%">
+  <img alt="constra.logo" src="images/logo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
